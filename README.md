@@ -1,8 +1,24 @@
-# React + Vite
+# [Website Name]
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![https://your-image-url-here.com](<src/assets/Screenshot 2023-12-14 at 10.29.58 PM.png>)
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Eraclio's Portfolio is a work in progress for my projects to come. I am excited to work on my portfolio page as I continue to grow as a software Engineer.
+
+Visit the live site: [Website Link](https://main--eracliovega.netlify.app/)
+
+## Features
+
+- CSS styling for a moving background.
+
+## Technologies Used
+
+- React, CSS, tailwind, HTML, Netlify
+
+## Contact
+
+- Eraclio Vega - erick.vega189@gmail.com
+- LinkedIn Link: [Website Link](www.linkedin.com/in/eraclio-vega
+) 
+
