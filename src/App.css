@@ -18,6 +18,37 @@
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
+/* .css-selector {
+  background: linear-gradient(44deg, #88ab8e, #afc8ad, #eee7da, #f2f1eb);
+  background-size: 800% 800%;
+
+  -webkit-animation: AnimationName 6s ease infinite;
+  -moz-animation: AnimationName 6s ease infinite;
+  -o-animation: AnimationName 6s ease infinite;
+  animation: AnimationName 6s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+  0%{background-position:0% 99%}
+  50%{background-position:100% 2%}
+  100%{background-position:0% 99%}
+}
+@-moz-keyframes AnimationName {
+  0%{background-position:0% 99%}
+  50%{background-position:100% 2%}
+  100%{background-position:0% 99%}
+}
+@-o-keyframes AnimationName {
+  0%{background-position:0% 99%}
+  50%{background-position:100% 2%}
+  100%{background-position:0% 99%}
+}
+@keyframes AnimationName {
+  0%{background-position:0% 99%}
+  50%{background-position:100% 2%}
+  100%{background-position:0% 99%}
+}
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
@@ -25,7 +56,7 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
 
 @media (prefers-reduced-motion: no-preference) {
   a:nth-of-type(2) .logo {
